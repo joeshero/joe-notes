@@ -1,1 +1,0 @@
-# joeshero-notes
