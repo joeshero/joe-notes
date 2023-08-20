@@ -20,6 +20,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       description: '💻学习📝记录🔗分享\n学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。',
     }
   },
+  base: '/joe-notes/',
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
 
   // 主题配置
